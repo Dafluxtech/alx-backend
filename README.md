@@ -2,7 +2,7 @@
 ## :page_with_curl: Topics Covered
 1. Pagination.
 
-## :screwdriver: Project setup.
+## :computer: Project setup.
 ```bash
 # Create project directory and readme.
 mkdir ./alx-backend/
