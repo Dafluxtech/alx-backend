@@ -2,7 +2,7 @@
 ## :page_with_curl: Topics Covered
 1. Pagination.
 
-## :pen: Project setup.
+## :gears: Project setup.
 ```bash
 # Create project directory and readme.
 mkdir ./alx-backend/
