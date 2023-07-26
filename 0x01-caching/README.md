@@ -2,8 +2,7 @@
 
 ![](https://executecommands.com/wp-content/uploads/2023/01/caching.png)
 
--   [caching]
-(https://executecommands.com/caching-techniques-term-pros-cons-csharp-use/)
+-   [caching](https://executecommands.com/caching-techniques-term-pros-cons-csharp-use/)
 
 ## Background Context
 
